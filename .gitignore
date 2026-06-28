@@ -1,0 +1,15 @@
+.DS_Store
+*.sqlite
+*.db
+*.sqlitedb
+*.dump
+.env
+node_modules/
+
+# Ignore editor temp files
+*~
+*.swp
+
+# Logs
+logs/
+*.log
